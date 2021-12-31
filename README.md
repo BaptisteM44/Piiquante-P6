@@ -26,6 +26,6 @@ cd frontend
 npm install
 ```
 
-# Outils et languages
+## Outils et languages
 
 * JS, NodeJS et MongoDB 
