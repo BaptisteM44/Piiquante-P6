@@ -1,4 +1,6 @@
 # Piiquante The Hottest Reviews
+![alt text](https://user.oc-static.com/upload/2021/07/29/16275605596354_PiiquanteLogo.png)
+
 
 ## Présentation
 Piiquante se dédie à la création de sauces épicées dont les recettes sont gardées
